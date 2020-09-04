@@ -1,0 +1,14 @@
+[
+  {
+    "model": "typeid",
+    "data": {
+      "nm":"phone"
+    }
+  },
+  {
+    "model": "typeid",
+    "data": {
+      "nm":"mail"
+    }
+  }
+]
